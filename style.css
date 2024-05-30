@@ -1,0 +1,344 @@
+body{
+width: 100%;
+
+}
+.contener{
+    width: 80%;
+    margin: 0 auto;
+    
+}
+.contener1{
+    display: flex;
+    align-items: center;
+    
+   
+   
+}
+
+.contener1 a{
+    text-decoration: none;
+    color: black;
+    margin: 25px;
+
+}
+#contener2 {
+         margin-left: 15%;  
+  
+}
+.button1{
+   
+    width: 128px;
+    height: 3em;
+    margin:20px ;
+    background-color: rgb(21, 21, 114);
+    color: white;
+    border: none;
+    border-radius: 4%;
+
+}
+.contenerr{
+    
+}
+.contener3{
+    display: flex;
+   
+   
+    
+    
+}
+.contener4{
+
+    margin-top: 170px;
+}
+.App{
+    display: flex;
+    margin-top: 25px;
+    
+}
+button{
+    width: 150px; ;
+    height: 3em; 
+   margin: 8px;
+   background-color: white;
+ border: 3%;
+ border-radius: 4%;
+ border-color: black;
+   
+    
+ }
+.app1{
+    display: flex;
+}
+.image2{
+  
+    width: 9%;
+}
+.text1{
+   
+    width: 99%;
+    margin-bottom: 26px;
+    margin-left:16px;
+}
+.contener5{
+    width: 50%;
+    margin-left: 80px;
+   
+}
+.contener6{
+margin-bottom: 20px;
+
+
+}
+.contener6 img{
+       width: 100px;
+       margin-left: 3.5%;
+      
+      
+}
+.contener7{
+    width: 75%;
+    margin: 0 auto;
+    font-size: 15px;
+
+}
+.title2{
+    text-align: center;
+}
+
+.contener7 h1{
+    margin-top: -13px;
+
+}
+.contenerrr{
+    width: 70%;
+    margin: 0 auto;
+   
+}
+.contener8{
+  
+ display: flex;
+
+  
+ }
+ .contener9{
+  
+ display: flex;
+ }
+
+.image{
+width: 50%;
+
+}
+.texte{
+    width: 50%;
+    margin-top:50px ;
+
+}
+.contener8 p{
+    font-size: 12px;
+}
+.contener9 p{
+    font-size: 12px;
+}
+.centre{
+    width: 80%;
+    margin: 0 auto;
+    
+}
+.contener10{
+ 
+    display: flex;
+    
+   
+}
+.imag{
+    width: 9%;
+    margin-left: 30px;
+   
+}
+.title3{
+    text-align: center;
+   
+   font-size: 12px;
+   width: 76%;
+   
+}
+.title3 h1{
+    margin-top: -13px;
+}
+.contener11{
+   display: flex;
+  
+  
+}
+
+.centre1{
+    
+    display: flex;
+    margin-left: 13px;
+}
+.contener12{
+    width: 204px;
+    height: 19em;
+    background-color: white;
+    margin-right: 30px;
+   
+    
+
+}
+.contener12:hover{
+
+   box-shadow: 0 5px 9px rgba(0, 0, 0, 0.2);
+
+}
+.App2{
+    display: flex;
+   
+    margin-top:-11px;
+   
+}
+.App2 img{
+ 
+    height: 3em;
+}
+.App3{
+    width: 90px;
+   
+}
+.image4{
+    width: 15%;
+}
+.text3{
+    width: 160px;
+   margin-top:-16px;
+
+}
+.text3 p{
+    font-size: 12px;
+    color:rgb(111, 199, 231);
+    margin-top: -16%;
+}
+hr{
+      border-color: rgb(44, 144, 227);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.image7{
+    width: 30px;
+    height: 2em;
+    background-color: rgb(21, 125, 230);
+    border-radius: 50%;
+    margin-top: 120px;
+
+
+}
+.image7 img{
+    width: 15px;
+   margin: 9px;
+}
+.imagr5{
+    width: 40px;
+    
+}
+.imagr9{
+    width: 40px;
+    background-color: rgb(0, 166, 255);
+}
+.contener17{
+    width: 100%;
+    height: 17em;
+    text-align: center;
+    color: white;
+    background-color: rgb(29, 43, 135);
+    font-size: 12px;
+    margin-top: 10%;
+   
+    
+ }
+
+
+ .contener17 h1{
+    margin-top: -16px;
+   font-size: 30px;
+   text-align: center;
+  
+}
+
+.image9 img{
+    width: 195px;
+    margin-top: 4%;
+ 
+}
+.contener18{
+margin-bottom:18px ;
+
+}
+.contener19{
+    background-color: rgb(17, 20, 41);
+    width:100%;
+     height:32em;
+     color: white;
+     display: flex;
+     font-size: 60%;
+    
+    
+    }
+    .cont{
+ margin-left: 9%;
+
+    }
+    .cont img{
+        width: 35px;
+
+    }
+    .imai{
+        margin-top: 110%;
+    }
+ 
+    @media (max-width:1140px){
+      
+            .contener3{
+                display: block;
+               
+              
+            }
+            .contener4{
+                width: 100%;
+                height: fit-content 
+              
+            
+            }
+            .contener5{
+                width: 100%;
+                height: fit-content 
+               
+               
+            }
+            .contener8{
+                display: block;
+            }
+            .contener9{
+                display: block;
+            }
+            .centre1{
+    
+                display: block;
+             
+            }
+            .contener1 a{
+               
+                margin: 9px;
+            
+            }
+            #contener2 {
+                margin-left: 10%;  
+         
+       }
+       
+
+    }
+   
+
+
+ 
+
